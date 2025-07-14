@@ -119,17 +119,11 @@ PRs are welcome! Feel free to open issues or submit patches for:
 
 Make sure to run `stylua` on any Lua code before submitting.
 
----
-
-## 📜 License
-
-Distributed under the **MIT License**. See `LICENSE` for details.
 
 ---
 
-## 📷 Screenshots (Optional)
-
-Add some eye‑candy here – e.g. a coding session with DAP UI and LeetCode split view.
+## 📷 Screenshots 
+<img width="1206" height="609" alt="image" src="https://github.com/user-attachments/assets/38650b90-5dec-44d2-8947-2e2cdae91762" />
 
 ---
 

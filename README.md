@@ -39,22 +39,7 @@ A fully‑featured, batteries‑included Neovim distribution tailored for Java d
 
 ---
 
-## 🚀 Installation
 
-```bash
-# 1. Back up any existing config
-mv ~/.config/nvim ~/.config/nvim.backup.$(date +%s) || true
-
-# 2. Clone the repo
-git clone --depth 1 https://github.com/<your-username>/leetcode-plus-nvim ~/.config/nvim
-
-# 3. Launch Neovim – Lazy.nvim will sync plugins automatically
-nvim
-```
-
-First launch may take a couple of minutes while plugins are downloaded and compiled.
-
----
 
 ## ⚡️ Usage Cheatsheet
 
